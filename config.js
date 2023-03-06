@@ -1,9 +1,9 @@
 module.exports = {
-    username: "<YOUR-TWITCH-USERNAME>",
-    token: "<YOUR-TWITCH-AUTH-TOKEN>",
+    username: "FrickinLawnmower",
+    token: "oauth:ulhlxomuuinjb464zfsvo29swfsf8a",
     channels: [
-        "<CHANNEL-1>",
-        "<CHANNEL-2>",
-        "<CHANNEL-3>"
+        "RatlasLive>",
+        "ZBRA",
+        "eelswithfeels"
     ]
 }
