@@ -4,6 +4,8 @@ A simple script to join multiple Twitch.tv channel chats under a user account.
 
 ## Description
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NDDeU0?referralCode=gDTUby)
+
 ### What to use it for
 
 The primary purpose of this script is to increase your account activity in channels' chat-related actions while not actually watching the stream at the given moment, for example:
